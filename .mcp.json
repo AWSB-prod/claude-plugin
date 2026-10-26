@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-workspace-builder": {
+      "type": "http",
+      "url": "https://aiworkspacebuilder.ai/mcp"
+    }
+  }
+}

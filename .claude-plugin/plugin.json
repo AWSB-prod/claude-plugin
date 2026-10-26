@@ -1,0 +1,13 @@
+{
+  "name": "ai-workspace-builder",
+  "displayName": "AI Workspace Builder",
+  "version": "1.0.0",
+  "description": "Turn your team's docs into a Claude Code setup: a team CLAUDE.md built from your README and onboarding docs, plus shared permission defaults.",
+  "author": {
+    "name": "AI Workspace Builder",
+    "url": "https://aiworkspacebuilder.ai"
+  },
+  "homepage": "https://aiworkspacebuilder.ai",
+  "license": "MIT",
+  "keywords": ["claude-md", "team", "onboarding", "conventions", "permissions"]
+}

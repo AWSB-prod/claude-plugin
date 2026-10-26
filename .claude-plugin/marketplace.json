@@ -1,0 +1,15 @@
+{
+  "name": "ai-workspace-builder",
+  "description": "Claude Code plugins from AI Workspace Builder",
+  "owner": {
+    "name": "AI Workspace Builder",
+    "url": "https://aiworkspacebuilder.ai"
+  },
+  "plugins": [
+    {
+      "name": "ai-workspace-builder",
+      "source": "./",
+      "description": "Turn your team's docs into a Claude Code setup: a team CLAUDE.md built from your README and onboarding docs, plus shared permission defaults."
+    }
+  ]
+}
