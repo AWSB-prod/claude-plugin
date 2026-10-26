@@ -8,6 +8,8 @@
     "url": "https://aiworkspacebuilder.ai"
   },
   "homepage": "https://aiworkspacebuilder.ai",
+  "privacyPolicyUrl": "https://aiworkspacebuilder.ai/privacy",
   "license": "MIT",
-  "keywords": ["claude-md", "team", "onboarding", "conventions", "permissions"]
+  "keywords": ["claude-md", "team", "onboarding", "conventions", "permissions"],
+  "icon": ".claude-plugin/icon.png"
 }
