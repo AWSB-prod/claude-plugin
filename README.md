@@ -23,7 +23,7 @@ Ask Claude to "set up Claude Code for our team" or "write a CLAUDE.md from our d
 
 ## More
 
-To generate a CLAUDE.md, role profiles for each part of your team and an install script straight from uploaded documents, use the web app at https://aiworkspacebuilder.ai.
+To generate a CLAUDE.md, role profiles for each part of your team and an install script straight from uploaded documents, use the [web app](https://aiworkspacebuilder.ai/?utm_source=github&utm_medium=plugin).
 
 ## Privacy
 
