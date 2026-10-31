@@ -25,6 +25,8 @@ Ask Claude to "set up Claude Code for our team" or "write a CLAUDE.md from our d
 
 To generate a CLAUDE.md, role profiles for each part of your team and an install script straight from uploaded documents, use the [web app](https://aiworkspacebuilder.ai/?utm_source=github&utm_medium=plugin).
 
+Short how-to videos, from a first CLAUDE.md to a full team setup: [youtube.com/@aiworkspacebuilder](https://www.youtube.com/@aiworkspacebuilder)
+
 ## Privacy
 
 The connector does not store the answers it receives or anything else from your conversation, apart from standard server logs. Full policy: https://aiworkspacebuilder.ai/privacy
